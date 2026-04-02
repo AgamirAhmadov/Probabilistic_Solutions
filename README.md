@@ -15,10 +15,12 @@ Due to lecture still being created we will update list along the way...
 
 - 02_combinatorics.md
 
+- 03_probability_distributions.md
+
+- 04_discovery_formalism.md
+
 ## In progress:
 
-- 03_events_conditional_probability.md
-
-- 04_probability_distributions.md
+- 05_events_conditional_probability.md
 
 
