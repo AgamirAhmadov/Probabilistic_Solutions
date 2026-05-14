@@ -270,31 +270,5 @@ Both methods produce the same results.
 
 The PMF is useful for exact probabilities, while the CDF is often more convenient for interval probabilities.
 
----
-
-# 9. If possible, implement this distribution in a small application and allow the user to inspect the PMF and CDF interactively.
-
-## Solution
-
-A small Python or HTML/JavaScript application could allow the user to:
-
-- display the PMF graph,
-- display the CDF graph,
-- compute probabilities interactively,
-- modify probability values,
-- compare PMF and CDF visually.
-
-Such an application helps users better understand how probability accumulates in a discrete distribution.
 
 ---
-
-# Conclusion
-
-This task demonstrates how a discrete probability distribution can be represented using:
-
-- the Probability Mass Function (PMF),
-- and the Cumulative Distribution Function (CDF).
-
-The PMF gives probabilities for exact values, while the CDF shows accumulated probability up to a given point.
-
-The jumps of the CDF are exactly equal to the PMF probabilities.
